@@ -1,0 +1,24 @@
+Part 1
+
+1. mkdir first
+2. cd first
+3. touch person.txt
+4. mv person.txt another.txt
+5. cp another`.txt copy.txt
+6. rm copy.txt
+7. cp -r first second
+8. rm -rf second
+
+Part 2
+
+1. The man command pulls up the manual for whatever comman it is followed by. You can scroll by pressing 'enter' and you can exit by pressing 'q'.
+2. The -l flag will use the long listing format. The -a flag shows all files and folders (including hidden ones starting with .)
+3. You can jump between words using ALT + Left/Right arrow keys. 
+4. CTRL + e
+5. CTRL + a
+6. CTRL + w
+7. The terminal is a program is just an interface to the shell. The shell is what actually handles commands and so forth; the terminal program just gives it a way to interact with the environment.
+8. An absolute path is a path that starts from the root route and gives the complete location for a file or folder
+9. A relative path is a path that starts at the current location and not the root route
+10. A flag adds additional functionality to an existing command
+11.  r will remove folders and recursively go through each folder and file and f will force removal
